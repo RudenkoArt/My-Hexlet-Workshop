@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "my-hexlet-workshop",
+  "description": "Due to the educational purposes here I will post my code from Hexlet with detailed comments in Russian.",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudenkoArt/My-Hexlet-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudenkoArt/My-Hexlet-Workshop/issues"
+  },
+  "homepage": "https://github.com/RudenkoArt/My-Hexlet-Workshop#readme"
 }
